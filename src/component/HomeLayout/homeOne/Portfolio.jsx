@@ -7,39 +7,45 @@ const PortfolioList = [
     {
         image: 'image-1',
         category: 'Meetup',
-        title: 'Alguns meetups que já participamos'
+        title: 'Em breve', 
+        href: ""
     },
     {
         image: 'image-2',
         category: 'IGTV',
-        title: 'Alguns vídeos do nosso IGTV'
+        title: 'Em breve',
+        href: ""
     },
     {
         image: 'image-3',
-        category: 'Live',
-        title: 'Algumas das lives que já fizemos'
-    },
-    {
-        image: 'image-4',
         category: 'Destaques',
-        title: 'Nossos destaques do instagram'
-    },
-    {
-        image: 'image-3',
-        category: 'Podcast',
-        title: 'Indicações de podcasts'
+        title: 'Em breve',
+        href: ""
     },
     {
         image: 'image-4',
-        category: 'Vídeos',
-        title: 'Indicações de vídeos'
+        category: 'Filmes & Séries',
+        title: 'Indicações de filmes e séries',
+        href: "indications"
+    },
+    {
+        image: 'image-3',
+        category: 'Podcasts',
+        title: 'Indicações de podcasts',
+        href: "indications"
+    },
+    {
+        image: 'image-4',
+        category: 'Livros',
+        title: 'Indicações de livros',
+        href: "indications"
     }
 ]
 
 class Portfolio extends Component{
     render(){
-        let title = 'Nossos Trabalhos',
-        description = 'Aqui nós deixamos um espaço para expor nossos trabalhos. Seja meetup, seja videos no instagram, etc.';
+        let title = 'Conteúdo',
+        description = 'Aqui nós deixamos um espaço para expor nossos trabalhos e indicações.';
         return(
             <React.Fragment>
                 <div className="portfolio-wrapper">
@@ -64,9 +70,10 @@ class Portfolio extends Component{
                                     <div className="content">
                                         <div className="inner">
                                             <p><b>{value.category}</b></p>
-                                            <h4><a href="/portfolio-details">{value.title}</a></h4>
+                                            <h4><a href={`${value.href}`}>{value.title}</a></h4>
+
                                             <div className="portfolio-button">
-                                                <a className="rn-btn" href={`/portfolio-details- ${index}`}>Acesse</a>
+                                                <a className="rn-btn" href={`${value.href}`}>Acesse</a>
                                             </div>
                                         </div>
                                     </div>

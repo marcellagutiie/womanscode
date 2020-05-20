@@ -30,7 +30,7 @@ class Footer extends Component{
                                             <div className="footer-link">
                                                 <h4>Links úteis</h4>
                                                 <ul className="ft-link">
-                                                    <li><a href="/portfolio">Ações</a></li>
+                                                    <li><a href="/">Em breve Meetups</a></li>
                                                     <li><a href="/about">Sobre</a></li>
                                                     <li><a href="/contact">Vamos conversar</a></li>
                                                 </ul>

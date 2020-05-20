@@ -17,7 +17,7 @@ class MainDemo extends Component{
     render(){
         return(
             <div className="active-dark"> 
-                <Helmet pageTitle="Main Demo Dark" />
+                <Helmet pageTitle="Woman's Code" />
                 <Header headertransparent="header--transparent" colorblack="color--black" logoname="logo.png" />
 
                 {/* Start Slider Area   */}
