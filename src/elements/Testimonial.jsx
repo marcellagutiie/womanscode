@@ -13,7 +13,7 @@ class Testimonial extends Component{
                                         <p>Quanto mais estudo, mais sinto que minha mete nisso é insaciável.</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://canaltech.com.br/curiosidades/mulheres-historicas-ada-lovelace-a-primeira-programadora-de-todos-os-tempos-71395/" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://canaltech.com.br/curiosidades/mulheres-historicas-ada-lovelace-a-primeira-programadora-de-todos-os-tempos-71395/" >
                                             <span className="text link-name"> - Ada Lovelace</span>
                                         </a>                         
                                     </div>
@@ -26,7 +26,7 @@ class Testimonial extends Component{
                                         <p>A frase mais perigosa da nossa linguagem é: Porque sempre se fez assim.</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://canaltech.com.br/internet/mulheres-historicas-conheca-a-historia-de-grace-hopper-a-vovo-do-cobol-72559/" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://canaltech.com.br/internet/mulheres-historicas-conheca-a-historia-de-grace-hopper-a-vovo-do-cobol-72559/" >
                                             <span className="text link-name"> - Grace Hopper</span>
                                         </a>        
                                      </div>
@@ -38,7 +38,7 @@ class Testimonial extends Component{
                                         <p>Racismo e sexismo também são burrices econômicas.</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://exame.com/pme/da-discriminacao-ao-empreendedorismo-nina-silva-e-o-movimento-black-money/" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://exame.com/pme/da-discriminacao-ao-empreendedorismo-nina-silva-e-o-movimento-black-money/" >
                                             <span className="text link-name"> - Nina Silva</span>
                                         </a>  
                                     </div>
@@ -51,7 +51,7 @@ class Testimonial extends Component{
                                         <p>O que melhor funciona para mim quando quero aprender sobre algo novo é não deixar o medo atrapalhar.</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://epocanegocios.globo.com/Mundo/noticia/2019/07/conheca-historia-de-margaret-hamilton-programadora-que-salvou-missao-lua.html" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://epocanegocios.globo.com/Mundo/noticia/2019/07/conheca-historia-de-margaret-hamilton-programadora-que-salvou-missao-lua.html" >
                                             <span className="text link-name"> - Margaret Hamilton</span>
                                         </a>  
                                     </div>
@@ -63,7 +63,7 @@ class Testimonial extends Component{
                                         <p>Aceitamos a educação como meio de superar as limitações que a sociedade preconceituosa tentou colocar sobre nós.</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://www.geledes.org.br/eveliyn-boyd-granville-mulher-negra-e-phd-em-matematica/" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://www.geledes.org.br/eveliyn-boyd-granville-mulher-negra-e-phd-em-matematica/" >
                                             <span className="text link-name"> - Evelyn Boyd Granville</span>
                                         </a>  
                                     </div>
@@ -76,7 +76,7 @@ class Testimonial extends Component{
                                         <p>Eu acho que as mulheres são capazes de olhar para os aspectos mais amplos da computação.</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://revistagalileu.globo.com/Tecnologia/noticia/2019/02/conheca-karen-sparck-jones-criadora-do-conceito-dos-sites-de-busca.html" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://revistagalileu.globo.com/Tecnologia/noticia/2019/02/conheca-karen-sparck-jones-criadora-do-conceito-dos-sites-de-busca.html" >
                                             <span className="text link-name"> - Karen Sparck Jones</span>
                                         </a>  
                                     </div>
@@ -88,7 +88,7 @@ class Testimonial extends Component{
                                         <p>Eu não aprendi a ficar quieta quando tenho uma opinião</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://www.britannica.com/biography/Ursula-Burns" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://www.britannica.com/biography/Ursula-Burns" >
                                             <span className="text link-name"> - Ursula Burns</span>
                                         </a>  
                                     </div>
@@ -101,7 +101,7 @@ class Testimonial extends Component{
                                         <p>No futuro não haverá mais líderes femininas. Haverá apenas líderes.</p>
                                     </div>
                                     <div className="author-info">
-                                        <a className="btn-transparent rn-btn-dark" target="_blank"  href="https://canaltech.com.br/celebridade/sheryl-sandberg/" >
+                                        <a className="btn-transparent rn-btn-dark" target="_blank" rel="noopener noreferrer"  href="https://canaltech.com.br/celebridade/sheryl-sandberg/" >
                                             <span className="text link-name"> - Sheryl Sandberg</span>
                                         </a>  
                                     </div>

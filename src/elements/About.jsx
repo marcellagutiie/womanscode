@@ -13,15 +13,15 @@ import Footer from "../component/footer/Footer";
 
 class About extends Component{
     render(){
-        let title = 'About',
+        let title = 'Sobre',
         description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going.';
         return(
             <React.Fragment>
-                <PageHelmet pageTitle='About' />
+                <PageHelmet pageTitle='Sobre' />
 
                 <Header headertransparent="header--transparent" colorblack="color--black" logoname="logo.png" />
                 {/* Start Breadcrump Area */}
-                <Breadcrumb title={'About'}   />
+                <Breadcrumb title={'Sobre'}   />
                 {/* End Breadcrump Area */}
 
                 {/* Start About Area  */}

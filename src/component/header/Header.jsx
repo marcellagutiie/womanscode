@@ -61,10 +61,10 @@ class Header extends Component{
                         <nav className="mainmenunav d-lg-block">
                             <ul className="mainmenu">
                                 <li><Link to="/">Home</Link></li>
-                                <li><Link to="/about">About</Link></li>
-                                <li><Link to="/service">Service</Link></li>
-                                <li><Link to="/portfolio">Ações</Link></li>
-                                <li><Link to="/contact" >Contact</Link></li>
+                                <li><Link to="/about">Sobre</Link></li>
+                                <li><Link to="/service">Serviços</Link></li>
+                                <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/womanscode/">Instagram</a></li>
+                                <li><Link to="/contact">Contato</Link></li>
                             </ul>
                         </nav>
                         {/* Start Humberger Menu  */}
