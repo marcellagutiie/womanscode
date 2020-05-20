@@ -2,8 +2,8 @@ import React, { Component } from "react";
 
 class About extends Component{
     render(){
-        let title = 'About',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum,';
+        let title = 'Sobre',
+        description = "A Woman's Code é uma rede de apoio para nós mulheres de tecnologia, mulheres de código. Somos todas por uma.";
         return(
             <React.Fragment>
                 <div className="about-wrapper">
@@ -25,17 +25,21 @@ class About extends Component{
                                     <div className="row mt--30 mt_sm--10">
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div className="about-us-list">
-                                                <h3 className="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                                                <h3 className="title">Marcella G.</h3>
+                                                <p>Desenvolvedora front-end, 22 anos, fundadora da Woman's Code.</p>
                                             </div>
                                         </div>
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div className="about-us-list">
-                                                <h3 className="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                                                <h3 className="title">Larissa M.</h3>
+                                                <p>Desenvolvedora back-end, 23 anos, co-fundadora da Woman's Code.</p>
                                             </div>
                                         </div>
+                                        <div className="service-btn row mt--30 mt_sm--10 about-link">
+                                            <a className="btn-transparent rn-btn-dark" href="/about"><span className="text">Para maiores informações, clique aqui</span></a>
+                                        </div>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
