@@ -4,30 +4,30 @@ import { FiCast , FiLayers , FiUsers , FiMonitor } from "react-icons/fi";
 const ServiceList = [
     {
         icon: <FiCast />,
-        title: 'Business Stratagy',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Instagram',
+        description: 'Nós utilizamos o instagram como canal de conversa. Fazemos lives, IGTVs e stories com dicas, conselhos, notícias, sobre o mundo de mulheres e tecnologia.'
     },
     {
         icon: <FiLayers />,
-        title: 'Website Development',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Meetup',
+        description: 'Fazemos meetups para falarmos sobre o mercado de trabalho, novas tecnologias, area acadêmica, assuntos técnicos e não técnicos. Todos são bem-vindos.'
     },
     {
         icon: <FiUsers />,
-        title: 'Marketing & Reporting',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Madrinhes',
+        description: 'Nomeamos madrinhes para auxiliar mais de perto pessoas que solicitem esse tipo de ajuda.'
     },
     {
         icon: <FiMonitor />,
-        title: 'Mobile App Development',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Network',
+        description: 'Nossa rede é uma ótima oportunidade de fazer network e conhecer novas pessoas!'
     }
 ]
 
 class ServiceTwo extends Component{
     render(){
-        let title = 'Services',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.';
+        let title = 'Serviços',
+        description = 'Esses sãos os serviços que prestamos atualmente. Para mais detalhes, ';
         return(
             <React.Fragment>
                 <div className="row">
@@ -36,7 +36,7 @@ class ServiceTwo extends Component{
                             <h2 className="title">{title}</h2>
                             <p>{description}</p>
                             <div className="service-btn">
-                                <a className="btn-transparent rn-btn-dark" href="/service"><span className="text">Request Custom Service</span></a>
+                                <a className="btn-transparent rn-btn-dark" href="/service"><span className="text">Acesse a página de serviços</span></a>
                             </div>
                         </div>
                     </div>
