@@ -55,7 +55,7 @@ class MainDemo extends Component{
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="section-title text-center">
-                                    <h3 className="fontWeight500">Our Fun Facts</h3>
+                                    <h3 className="fontWeight500">Nossos números</h3>
                                 </div>
                             </div>
                         </div>
