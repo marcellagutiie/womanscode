@@ -112,56 +112,56 @@ class Testimonial extends Component{
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/ada.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/ada.jpg" alt="Ada Lovelace"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/grace-hopper.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/grace-hopper.jpg" alt="Grace Hopper"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/nina-silva.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/nina-silva.jpg" alt="Nina Silva"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/margaret-hamilton.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/margaret-hamilton.jpg" alt="Margaret Hamilton"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/evelyn-boyd.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/evelyn-boyd.jpg" alt="Evelyn Boyd"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/karen-sparck.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/karen-sparck.jpg" alt="Karen Sparck"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/ursula-burns.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/ursula-burns.jpg" alt="Ursula Burns"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/sheryl-2.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/sheryl-2.jpg" alt="Sharyl"/>
                                         </div>
                                     </div>
                                 </Tab>
