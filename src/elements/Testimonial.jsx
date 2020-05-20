@@ -10,10 +10,12 @@ class Testimonial extends Component{
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Aklima The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                        <p>Quanto mais estudo, mais sinto que minha mete nisso é insaciável.</p>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Aklima </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Ada Lovelace</span>
+                                        </a>                         
                                     </div>
                                 </div>
                             </TabPanel>
@@ -21,41 +23,24 @@ class Testimonial extends Component{
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Fatima Asrafy standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                        <p>A frase mais perigosa da nossa linguagem é: Porque sempre se fez assim.</p>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Fatima Asrafy </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Grace Hopper</span>
+                                        </a>        
+                                     </div>
                                 </div>
                             </TabPanel>
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Jannat Tumpa The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                        <p>Racismo e sexismo também são burrices econômicas.</p>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Jannat Tumpa </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
-                                </div>
-                            </TabPanel>
-
-                            <TabPanel>
-                                <div className="rn-testimonial-content text-center">
-                                    <div className="inner">
-                                        <p>Standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Johns Due </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
-                                </div>
-                            </TabPanel>
-                            <TabPanel>
-                                <div className="rn-testimonial-content text-center">
-                                    <div className="inner">
-                                        <p>John Doe The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>John Doe </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Nina Silva</span>
+                                        </a>  
                                     </div>
                                 </div>
                             </TabPanel>
@@ -63,20 +48,24 @@ class Testimonial extends Component{
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                        <p>O que melhor funciona para mim quando quero aprender sobre algo novo é não deixar o medo atrapalhar.</p>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Amar Orthi </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Margaret Hamilton</span>
+                                        </a>  
                                     </div>
                                 </div>
                             </TabPanel>
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                        <p>Eu acho que as mulheres são capazes de olhar para os aspectos mais amplos da computação.</p>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Fatima Ma </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Karen Spark Jones</span>
+                                        </a>  
                                     </div>
                                 </div>
                             </TabPanel>
@@ -84,10 +73,37 @@ class Testimonial extends Component{
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                        <p>Aceitamos a educação como meio de superar as limitações que a sociedade preconceituosa tentou colocar sobre nós.</p>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>JON CUMMINS </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Evely Boyd Granville</span>
+                                        </a>  
+                                    </div>
+                                </div>
+                            </TabPanel>
+                            <TabPanel>
+                                <div className="rn-testimonial-content text-center">
+                                    <div className="inner">
+                                        <p>Eu não aprendi a ficar quieta quando tenho uma opinião</p>
+                                    </div>
+                                    <div className="author-info">
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Ursula Burns</span>
+                                        </a>  
+                                    </div>
+                                </div>
+                            </TabPanel>
+
+                            <TabPanel>
+                                <div className="rn-testimonial-content text-center">
+                                    <div className="inner">
+                                        <p>No futuro não haverá mais líderes femininas. Haverá apenas líderes.</p>
+                                    </div>
+                                    <div className="author-info">
+                                        <a className="btn-transparent rn-btn-dark" href="/service">
+                                            <span className="text link-name"> - Sheryl Sandberg</span>
+                                        </a>  
                                     </div>
                                 </div>
                             </TabPanel>
