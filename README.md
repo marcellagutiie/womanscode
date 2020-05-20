@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## npm intall node-sass & npm update
+
+you need to run `npm install node-sass` before` npm update`, for some reason node-sass does not download correctly and needs to be installed separately
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
