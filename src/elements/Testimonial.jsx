@@ -140,14 +140,14 @@ class Testimonial extends Component{
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/karen-sparck.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/evelyn-boyd.jpg" alt="Testimonial Images"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/evelyn-boyd.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/karen-sparck.jpg" alt="Testimonial Images"/>
                                         </div>
                                     </div>
                                 </Tab>
@@ -161,7 +161,7 @@ class Testimonial extends Component{
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/women/sheryl.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/women/sheryl-2.jpg" alt="Testimonial Images"/>
                                         </div>
                                     </div>
                                 </Tab>
