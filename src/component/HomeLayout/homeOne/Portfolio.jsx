@@ -6,40 +6,40 @@ import { portfolioSlick2 } from "../../../page-demo/script";
 const PortfolioList = [
     {
         image: 'image-1',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Meetup',
+        title: 'Alguns meetups que já participamos'
     },
     {
         image: 'image-2',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'IGTV',
+        title: 'Alguns vídeos do nosso IGTV'
     },
     {
         image: 'image-3',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Live',
+        title: 'Algumas das lives que já fizemos'
     },
     {
         image: 'image-4',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Destaques',
+        title: 'Nossos destaques do instagram'
     },
     {
         image: 'image-3',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Podcast',
+        title: 'Indicações de podcasts'
     },
     {
         image: 'image-4',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Vídeos',
+        title: 'Indicações de vídeos'
     }
 ]
 
 class Portfolio extends Component{
     render(){
-        let title = 'Our Works',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.';
+        let title = 'Nossos Trabalhos',
+        description = 'Aqui nós deixamos um espaço para expor nossos trabalhos. Seja meetup, seja videos no instagram, etc.';
         return(
             <React.Fragment>
                 <div className="portfolio-wrapper">
@@ -63,10 +63,10 @@ class Portfolio extends Component{
                                     </div>
                                     <div className="content">
                                         <div className="inner">
-                                            <p>{value.category}</p>
+                                            <p><b>{value.category}</b></p>
                                             <h4><a href="/portfolio-details">{value.title}</a></h4>
                                             <div className="portfolio-button">
-                                                <a className="rn-btn" href="/portfolio-details">Case Study</a>
+                                                <a className="rn-btn" href={`/portfolio-details- ${index}`}>Acesse</a>
                                             </div>
                                         </div>
                                     </div>
