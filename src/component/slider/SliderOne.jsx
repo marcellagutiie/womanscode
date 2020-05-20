@@ -10,7 +10,7 @@ class SliderOne extends Component {
                     <div className="row">
                         <div className="col-lg-12">
                             <div className="inner">
-                                <h1 className="title theme-gradient">TODOS POR <br /> UMA. </h1>
+                                <h1 className="title theme-gradient">TODAS POR <br /> UMA. </h1>
                             </div>
                         </div>
                     </div>
