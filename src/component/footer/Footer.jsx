@@ -1,11 +1,9 @@
 import React, { Component } from "react";
-import {FaTwitter ,FaInstagram ,FaFacebookF , FaLinkedinIn} from "react-icons/fa";
+import { FaInstagram ,FaFacebookF } from "react-icons/fa";
 
 const SocialShare = [
-    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/'},
-    {Social: <FaLinkedinIn /> , link: 'https://www.linkedin.com/'},
-    {Social: <FaInstagram /> , link: 'https://www.instagram.com/'},
-    {Social: <FaTwitter /> , link: 'https://twitter.com/'},
+    {Social: <FaFacebookF /> , link: 'https://www.facebook.com/womanscode'},
+    {Social: <FaInstagram /> , link: 'https://www.instagram.com/womanscode'},
 ]
 class Footer extends Component{
     render(){
@@ -17,10 +15,9 @@ class Footer extends Component{
                             <div className="col-lg-6">
                                 <div className="footer-left">
                                     <div className="inner">
-                                        <span>Ready To Do This</span>
-                                        <h2>Let's get <br /> to work</h2>
+                                        <h2>Vamos <br /> conversar!</h2>
                                         <a className="rn-button-style--2" href="/contact">
-                                            <span>Contact Us</span>
+                                            <span>Contato</span>
                                         </a>
                                     </div>
                                 </div>
@@ -31,11 +28,11 @@ class Footer extends Component{
                                         {/* Start Single Widget  */}
                                         <div className="col-lg-6 col-sm-6 col-12">
                                             <div className="footer-link">
-                                                <h4>Quick Link</h4>
+                                                <h4>Links úteis</h4>
                                                 <ul className="ft-link">
-                                                    <li><a href="/portfolio">Work</a></li>
-                                                    <li><a href="/about">About</a></li>
-                                                    <li><a href="/contact">Let's Talk</a></li>
+                                                    <li><a href="/portfolio">Ações</a></li>
+                                                    <li><a href="/about">Sobre</a></li>
+                                                    <li><a href="/contact">Vamos conversar</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -45,8 +42,7 @@ class Footer extends Component{
                                             <div className="footer-link">
                                                 <h4>Say Hello</h4>
                                                 <ul className="ft-link">
-                                                    <li><a href="mailto:admin@example.com">admin@example.com</a></li>
-                                                    <li><a href="mailto:hr@example.com">hr@example.com</a></li>
+                                                    <li><a href="mailto:contato@womanscode.com.br">contato@womanscode.com.br</a></li>
                                                 </ul>
 
                                                 <div className="social-share-inner">
@@ -62,7 +58,7 @@ class Footer extends Component{
 
                                         <div className="col-lg-12">
                                             <div className="copyright-text">
-                                                <p>Copyright © 2020 Rainbow-Themes. All Rights Reserved.</p>
+                                                <p>Copyright © 2020 Woman's Code. Todos os direitos reservados.</p>
                                             </div>
                                         </div>
                                     </div>
