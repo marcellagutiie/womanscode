@@ -50,9 +50,9 @@ class Header extends Component{
                             <ul className="mainmenu">
                                 <li><Link to="/">Home</Link></li>
                                 <li><Link to="/about">Sobre</Link></li>
-                                <li><Link to="/service">Serviços</Link></li>
                                 <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/womanscode/">Instagram</a></li>
-                                <li><Link to="/contact">Contato</Link></li>
+                                <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/womanscode/">Madrinhas</a></li>
+                                <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/womanscode/">Afilhadas</a></li>
                             </ul>
                         </nav>
                         {/* Start Humberger Menu  */}
