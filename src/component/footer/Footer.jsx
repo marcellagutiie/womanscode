@@ -1,9 +1,10 @@
 import React, { Component } from "react";
-import { FaInstagram ,FaFacebookF } from "react-icons/fa";
+import { FaInstagram ,FaFacebookF, FaLinkedin } from "react-icons/fa";
 
 const SocialShare = [
     {Social: <FaFacebookF /> , link: 'https://www.facebook.com/womanscode'},
     {Social: <FaInstagram /> , link: 'https://www.instagram.com/womanscode'},
+    {Social: <FaLinkedin /> , link: 'https://www.linkedin.com/in/woman-s-code'},
 ]
 class Footer extends Component{
     render(){
@@ -31,8 +32,8 @@ class Footer extends Component{
                                                 <h4>Links úteis</h4>
                                                 <ul className="ft-link">
                                                     <li><a href="/">Em breve Meetups</a></li>
-                                                    <li><a href="/about">Sobre</a></li>
-                                                    <li><a href="/contact">Vamos conversar</a></li>
+                                                    <li><a href="/">Quero ajudar!</a></li>
+                                                    <li><a href="/">Tenho uma reclamação :( </a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -40,9 +41,9 @@ class Footer extends Component{
                                         {/* Start Single Widget  */}
                                         <div className="col-lg-6 col-sm-6 col-12 mt_mobile--30">
                                             <div className="footer-link">
-                                                <h4>Say Hello</h4>
+                                                <h4>Me da um oizin</h4>
                                                 <ul className="ft-link">
-                                                    <li><a href="mailto:contato@womanscode.com.br">contato@womanscode.com.br</a></li>
+                                                    <li><a href="mailto:contato@womanscode.com.br">womanscodelm@gmail.com</a></li>
                                                 </ul>
 
                                                 <div className="social-share-inner">

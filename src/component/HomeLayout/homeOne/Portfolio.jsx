@@ -5,7 +5,7 @@ import { portfolioSlick2 } from "../../../page-demo/script";
 
 const PortfolioList = [
     {
-        image: 'image-1',
+        image: 'portfolio-1',
         category: 'Meetup',
         title: 'Em breve', 
         href: ""
@@ -13,32 +13,32 @@ const PortfolioList = [
     {
         image: 'image-2',
         category: 'IGTV',
-        title: 'Em breve',
-        href: ""
+        title: 'IGTV',
+        href: "https://www.instagram.com/womanscode/channel/"
     },
     {
-        image: 'image-3',
+        image: 'image-5',
         category: 'Destaques',
-        title: 'Em breve',
-        href: ""
+        title: 'Destaques',
+        href: "https://www.instagram.com/stories/highlights/17844170543244985/"
     },
     {
         image: 'image-4',
         category: 'Filmes & Séries',
         title: 'Indicações de filmes e séries',
-        href: "indications"
+        href: "https://www.instagram.com/p/CEcoLqfDAy4/"
     },
     {
-        image: 'image-3',
+        image: 'image-1',
         category: 'Podcasts',
         title: 'Indicações de podcasts',
-        href: "indications"
+        href: "https://podprogramar.com.br/"
     },
     {
-        image: 'image-4',
+        image: 'image-2',
         category: 'Livros',
         title: 'Indicações de livros',
-        href: "indications"
+        href: "https://www.instagram.com/p/CEm-w3elGDN/"
     }
 ]
 

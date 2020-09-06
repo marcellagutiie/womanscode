@@ -14,8 +14,8 @@ const ServiceList = [
     },
     {
         icon: <FiUsers />,
-        title: 'Madrinhes',
-        description: 'Nomeamos madrinhes para auxiliar mais de perto pessoas que solicitem esse tipo de ajuda.'
+        title: 'Madrinhas',
+        description: 'Nomeamos madrinhas para auxiliar mais de perto pessoas que solicitem esse tipo de ajuda.'
     },
     {
         icon: <FiMonitor />,

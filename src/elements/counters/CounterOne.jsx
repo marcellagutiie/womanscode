@@ -14,11 +14,11 @@ class CounterOne extends Component{
     render(){
         let Data = [
             {
-                countNum : 20,
+                countNum : 30,
                 countTitle: 'Eventos que palestramos',
             },
             {
-                countNum : 700,
+                countNum : 1600,
                 countTitle: 'Pessoas alcançadas',
             },
             {

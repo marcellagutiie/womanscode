@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class About extends Component{
     render(){
         let title = 'Sobre',
-        description = "A Woman's Code é uma rede de apoio para nós mulheres de tecnologia, mulheres de código. Somos todas por uma.";
+        description = "A Woman's Code é uma rede de apoio para nós mulheres de tecnologia, mulheres de código. Somos todas por uma. You can code it!";
         return(
             <React.Fragment>
                 <div className="about-wrapper">

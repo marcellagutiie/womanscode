@@ -40,7 +40,6 @@ ul {
                 }
             }
             &:hover{
-                background-color: $theme-color;
                 transform: scale(1.1);
                 border-radius: 6px;
                 img{
@@ -111,23 +110,6 @@ ul{
     }
 }
 
-.react-parallax-content{
-    .brand-style-2 {
-        li{
-
-        }
-        a {
-            img {
-                filter: brightness(0) invert(1);
-            }
-            &:hover {
-                img {
-                    filter: brightness(1) invert(0);
-                }
-            }
-        }
-    }
-}
 
 .brand-separation {
     position: relative;
