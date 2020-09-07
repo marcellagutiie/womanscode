@@ -2,7 +2,7 @@
   "name": "womanscode",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://marcellagutiie.github.io/sitewc",
+  "homepage": "http://marcellagutiie.github.io/womanscode",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",
