@@ -58,25 +58,37 @@
         background-position: center;
         border-radius: 5px;
         background-color: #0a0a0a;
-        background-image: url(/assets/images/portfolio/image-1.jpg);
+        background-image: url(/assets/images/portfolio/destaque.png);
         transform: scale(1.13) translateZ(0);
         backface-visibility: hidden;
         transition: transform .28s ease;
         z-index: 4;
         &.image-1{
-            background-image: url(/assets/images/portfolio/image-1.jpg);
+            background-image: url(/assets/images/portfolio/destaque.png);
         }
 
         &.image-2{
-            background-image: url(/assets/images/portfolio/image-2.jpg);
+            background-image: url(/assets/images/portfolio/embreve.png);
         }
 
         &.image-3{
-            background-image: url(/assets/images/portfolio/image-3.jpg);
+            background-image: url(/assets/images/portfolio/filmes.png);
         }
 
         &.image-4 {
-            background-image: url(/assets/images/portfolio/image-4.jpg);
+            background-image: url(/assets/images/portfolio/igtv.jpg);
+        }
+        
+        &.image-5 {
+            background-image: url(/assets/images/portfolio/livros.png);
+        }
+
+        &.image-6 {
+            background-image: url(/assets/images/portfolio/meetup.png);
+        }
+
+        &.image-7 {
+            background-image: url(/assets/images/portfolio/podcast.png);
         }
 
         &::after{

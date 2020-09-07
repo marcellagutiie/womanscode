@@ -3,39 +3,40 @@ import Slider from "react-slick";
 import { portfolioSlick2 } from "../../../page-demo/script";
 
 
+
 const PortfolioList = [
     {
-        image: 'portfolio-1',
+        image: `image-6`,
         category: 'Meetup',
         title: 'Em breve', 
         href: ""
     },
     {
-        image: 'image-2',
+        image: 'image-4',
         category: 'IGTV',
         title: 'IGTV',
         href: "https://www.instagram.com/womanscode/channel/"
     },
     {
-        image: 'image-5',
+        image: 'image-1',
         category: 'Destaques',
         title: 'Destaques',
         href: "https://www.instagram.com/stories/highlights/17844170543244985/"
     },
     {
-        image: 'image-4',
+        image: 'image-3',
         category: 'Filmes & Séries',
         title: 'Indicações de filmes e séries',
         href: "https://www.instagram.com/p/CEcoLqfDAy4/"
     },
     {
-        image: 'image-1',
+        image: 'image-7',
         category: 'Podcasts',
-        title: 'Indicações de podcasts',
-        href: "https://podprogramar.com.br/"
+        title: 'Em breve',
+        href: ""
     },
     {
-        image: 'image-2',
+        image: 'image-5',
         category: 'Livros',
         title: 'Indicações de livros',
         href: "https://www.instagram.com/p/CEm-w3elGDN/"
