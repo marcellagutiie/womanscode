@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3398cb2fe660ae21f479a28637be15f",
+    "revision": "fc803f09048e318950153bca06fae70c",
     "url": "/womanscode/index.html"
   },
   {
-    "revision": "3703e0ec5fdedb52f398",
+    "revision": "20af49097e281785e026",
     "url": "/womanscode/static/css/2.b03265d7.chunk.css"
   },
   {
-    "revision": "cc864ae6f7121149a8ce",
+    "revision": "7c70aaf2124b6302dfe6",
     "url": "/womanscode/static/css/main.1871e828.chunk.css"
   },
   {
-    "revision": "3703e0ec5fdedb52f398",
-    "url": "/womanscode/static/js/2.76267def.chunk.js"
+    "revision": "20af49097e281785e026",
+    "url": "/womanscode/static/js/2.77f2ba3a.chunk.js"
   },
   {
-    "revision": "cc864ae6f7121149a8ce",
-    "url": "/womanscode/static/js/main.cccebe10.chunk.js"
+    "revision": "7c70aaf2124b6302dfe6",
+    "url": "/womanscode/static/js/main.31e159fa.chunk.js"
   },
   {
     "revision": "2b6ec63d34b6f75f0dd3",
