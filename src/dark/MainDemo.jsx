@@ -5,7 +5,6 @@ import Header from "../component/header/Header";
 import Footer from "../component/footer/Footer";
 
 import SliderOne from "../component/slider/SliderOne";
-import ServiceTwo from "../elements/service/ServiceTwo";
 import CounterOne from "../elements/counters/CounterOne";
 import Testimonial from "../elements/Testimonial";
 import About from "../component/HomeLayout/homeOne/About";
@@ -29,7 +28,6 @@ class MainDemo extends Component{
                 {/* Start Service Area  */}
                 <div className="service-area ptb--120 bg_color--1">
                    <div className="container">
-                        <ServiceTwo />
                    </div>
                 </div>
                 {/* End Service Area  */}

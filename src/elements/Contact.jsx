@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import PageHelmet from "../component/common/Helmet";
 import { FiHeadphones , FiMail , FiMapPin } from "react-icons/fi";
 import GoogleMapReact from 'google-map-react';
-import ContactTwo from "../elements/contact/ContactTwo";
 import BrandTwo from "../elements/BrandTwo";
 import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
@@ -99,7 +98,6 @@ class Contact extends Component{
 
                 {/* Start Contact Page Area  */}
                 <div className="rn-contact-page ptb--120 bg_color--1">
-                    <ContactTwo />
                 </div>
                 {/* End Contact Page Area  */}
 
