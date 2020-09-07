@@ -46,7 +46,7 @@ class About extends Component{
                                             <div className="col-lg-4 col-md-12 col-sm-12 col-12">
                                                 <div className="about-us-list">
                                                     <h3 className="title">Diversidade</h3>
-                                                    <p>Queremos pessoas diversas conosco. Queremos dar visibilidade para todo mundo. Fugindo do esteriótipo de programadores e programadoras femininas. </p>
+                                                    <p>Queremos pessoas diversas conosco. Queremos dar visibilidade para todo mundo, fugindo de esteriótipos e lutando pelo fim de qualquer tipo de preconceito. </p>
                                                 </div>
                                             </div>
                                         </div>
