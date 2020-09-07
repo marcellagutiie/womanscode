@@ -144,6 +144,10 @@ font-family: 'Poppins', sans-serif;
     }
 }
 
+.bg_about{
+    background-image: url(/assets/images/about/values.png) !important;
+
+}
 
 
 @for $i from 1 through 80 {
