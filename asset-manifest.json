@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sitewc/static/css/main.8267a6ba.chunk.css",
-    "main.js": "/sitewc/static/js/main.89cdb6a3.chunk.js",
-    "main.js.map": "/sitewc/static/js/main.89cdb6a3.chunk.js.map",
-    "runtime~main.js": "/sitewc/static/js/runtime~main.a46321be.js",
-    "runtime~main.js.map": "/sitewc/static/js/runtime~main.a46321be.js.map",
-    "static/css/2.86e5b819.chunk.css": "/sitewc/static/css/2.86e5b819.chunk.css",
-    "static/js/2.76267def.chunk.js": "/sitewc/static/js/2.76267def.chunk.js",
-    "static/js/2.76267def.chunk.js.map": "/sitewc/static/js/2.76267def.chunk.js.map",
-    "index.html": "/sitewc/index.html",
-    "precache-manifest.427885c1de3b2513fa805c5d8caa4d7c.js": "/sitewc/precache-manifest.427885c1de3b2513fa805c5d8caa4d7c.js",
-    "service-worker.js": "/sitewc/service-worker.js",
-    "static/css/2.86e5b819.chunk.css.map": "/sitewc/static/css/2.86e5b819.chunk.css.map",
-    "static/css/main.8267a6ba.chunk.css.map": "/sitewc/static/css/main.8267a6ba.chunk.css.map",
-    "static/media/index.scss": "/sitewc/static/media/slick.f97e3bbf.svg"
+    "main.css": "/wc/static/css/main.f88732c8.chunk.css",
+    "main.js": "/wc/static/js/main.aeaad3e0.chunk.js",
+    "main.js.map": "/wc/static/js/main.aeaad3e0.chunk.js.map",
+    "runtime~main.js": "/wc/static/js/runtime~main.300eed40.js",
+    "runtime~main.js.map": "/wc/static/js/runtime~main.300eed40.js.map",
+    "static/css/2.e257d676.chunk.css": "/wc/static/css/2.e257d676.chunk.css",
+    "static/js/2.76267def.chunk.js": "/wc/static/js/2.76267def.chunk.js",
+    "static/js/2.76267def.chunk.js.map": "/wc/static/js/2.76267def.chunk.js.map",
+    "index.html": "/wc/index.html",
+    "precache-manifest.076d66ec1de9ebfccd37cf0d52a7278a.js": "/wc/precache-manifest.076d66ec1de9ebfccd37cf0d52a7278a.js",
+    "service-worker.js": "/wc/service-worker.js",
+    "static/css/2.e257d676.chunk.css.map": "/wc/static/css/2.e257d676.chunk.css.map",
+    "static/css/main.f88732c8.chunk.css.map": "/wc/static/css/main.f88732c8.chunk.css.map",
+    "static/media/index.scss": "/wc/static/media/slick.f97e3bbf.svg"
   }
 }
