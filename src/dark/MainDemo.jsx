@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { withRouter } from "react-router";
 import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
 import Header from "../component/header/Header";
@@ -98,4 +99,6 @@ class MainDemo extends Component{
         )
     }
 }
-export default MainDemo;
+
+
+export default withRouter(MainDemo);
