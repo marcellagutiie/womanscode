@@ -11,6 +11,7 @@ import About from "../component/HomeLayout/homeOne/About";
 import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
 import BrandTwo from "../elements/BrandTwo";
 import Helmet from "../component/common/Helmet";
+import ServiceTwo from "../elements/service/ServiceTwo";
 
 class MainDemo extends Component{
     render(){
@@ -28,6 +29,7 @@ class MainDemo extends Component{
                 {/* Start Service Area  */}
                 <div className="service-area ptb--120 bg_color--1">
                    <div className="container">
+                        <ServiceTwo />
                    </div>
                 </div>
                 {/* End Service Area  */}
@@ -81,6 +83,7 @@ class MainDemo extends Component{
                     </div>
                 </div>
                 {/* End Brand Area */}
+                
                 {/* Start Back To Top */}
                 <div className="backto-top">
                     <ScrollToTop showUnder={160}>

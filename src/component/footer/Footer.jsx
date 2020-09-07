@@ -17,7 +17,7 @@ class Footer extends Component{
                                 <div className="footer-left">
                                     <div className="inner">
                                         <h2>Vamos <br /> conversar!</h2>
-                                        <a className="rn-button-style--2" href="/contact">
+                                        <a className="rn-button-style--2" href="mailto:womanscodelm@gmail.com">
                                             <span>Contato</span>
                                         </a>
                                     </div>
@@ -43,7 +43,7 @@ class Footer extends Component{
                                             <div className="footer-link">
                                                 <h4>Me da um oizin</h4>
                                                 <ul className="ft-link">
-                                                    <li><a href="mailto:contato@womanscode.com.br">womanscodelm@gmail.com</a></li>
+                                                    <li><a href="mailto:womanscode@gmail.com">womanscodelm@gmail.com</a></li>
                                                 </ul>
 
                                                 <div className="social-share-inner">
