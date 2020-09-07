@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "828d5c9e3bce0b6025a365b81c62f734",
+    "revision": "ed4b17cdcb3085bcab00c79ed366bded",
     "url": "/womanscode/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/womanscode/static/css/2.b03265d7.chunk.css"
   },
   {
-    "revision": "a0a72df9db060f2bfe72",
+    "revision": "4c9c50f537143534b48b",
     "url": "/womanscode/static/css/main.1871e828.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/womanscode/static/js/2.76267def.chunk.js"
   },
   {
-    "revision": "a0a72df9db060f2bfe72",
-    "url": "/womanscode/static/js/main.1a6af23c.chunk.js"
+    "revision": "4c9c50f537143534b48b",
+    "url": "/womanscode/static/js/main.74736047.chunk.js"
   },
   {
     "revision": "2b6ec63d34b6f75f0dd3",
