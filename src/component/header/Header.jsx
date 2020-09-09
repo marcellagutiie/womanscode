@@ -41,7 +41,7 @@ class Header extends Component{
                     <div className="header-left">
                         <div className="logo-wc">
                             <a href="/">
-                                  <img src="/assets/images/logo/logo-wc.png" alt="Digital Agency"/>
+                                  <img src="/assets/images/logo/logo-wc.png" alt="Woman's Code"/>
                             </a>
                         </div>
                     </div>
@@ -51,8 +51,8 @@ class Header extends Component{
                                 <li><Link to="/">Home</Link></li>
                                 <li><Link to="/about">Sobre</Link></li>
                                 <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/womanscode/">Instagram</a></li>
-                                <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/womanscode/">Madrinhas</a></li>
-                                <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/womanscode/">Afilhadas</a></li>
+                                <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSe3qBxE5CgsKTD4QanFUv9zYw9u4YYLybHNF2kRoeE-2VTdSw/viewform?usp=pp_url">Madrinhas</a></li>
+                                <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfk0Utrctu5dPiLSCXvqUDE0ew7adEMREupU_Ym0uVEmtTktw/viewform?usp=pp_url">Afilhadas</a></li>
                             </ul>
                         </nav>
                         {/* Start Humberger Menu  */}

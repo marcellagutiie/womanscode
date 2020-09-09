@@ -32,8 +32,8 @@ class Footer extends Component{
                                                 <h4>Links úteis</h4>
                                                 <ul className="ft-link">
                                                     <li><a href="/">Em breve Meetups</a></li>
-                                                    <li><a href="/">Quero ajudar!</a></li>
-                                                    <li><a href="/">Tenho uma reclamação :( </a></li>
+                                                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLON2oMMrKSssZQmDvchAs1oQHdewJMmJoBxI_HHUO5sIy0w/viewform?usp=pp_url">Quero ajudar!</a></li>
+                                                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe3qBxE5CgsKTD4QanFUv9zYw9u4YYLybHNF2kRoeE-2VTdSw/viewform?usp=pp_url">Tenho um problema :( </a></li>
                                                 </ul>
                                             </div>
                                         </div>
