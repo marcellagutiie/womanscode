@@ -36,7 +36,7 @@ class ServiceTwo extends Component{
                             <h2 className="title">{title}</h2>
                             <p>{description}</p>
                             <div className="service-btn">
-                                <a className="btn-transparent rn-btn-dark" href="/service"><span className="text">Quer ajudar a gente? Chega mais!</span></a>
+                                <a className="btn-transparent rn-btn-dark" href="https://docs.google.com/forms/d/e/1FAIpQLSeLON2oMMrKSssZQmDvchAs1oQHdewJMmJoBxI_HHUO5sIy0w/viewform"><span className="text">Quer ajudar a gente? Chega mais!</span></a>
                             </div>
                         </div>
                     </div>
@@ -44,17 +44,15 @@ class ServiceTwo extends Component{
                         <div className="row service-one-wrapper">
                             {ServiceList.map( (val , i) => (
                                 <div className="col-lg-6 col-md-6 col-sm-6 col-12" key={i}>
-                                    <a href="/service-details">
-                                        <div className="service service__style--2">
-                                            <div className="icon">
-                                                {val.icon}
-                                            </div>
-                                            <div className="content">
-                                                <h3 className="title">{val.title}</h3>
-                                                <p>{val.description}</p>
-                                            </div>
+                                    <div className="service service__style--2">
+                                        <div className="icon">
+                                            {val.icon}
                                         </div>
-                                    </a>
+                                        <div className="content">
+                                            <h3 className="title">{val.title}</h3>
+                                            <p>{val.description}</p>
+                                        </div>
+                                    </div>
                                 </div>
                             ))}
                         </div>
