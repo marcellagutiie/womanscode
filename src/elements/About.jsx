@@ -92,7 +92,7 @@ class About extends Component{
                     <div className="row row--35 align-items-center">
                         <div className="col-lg-5 col-md-12">
                             <div className="thumbnail">
-                                <img className="w-100" src="/assets/images/about/1.png" alt="Marcella"/>
+                                <img className="w-100" src="/assets/images/about/1.png" alt="Larissa"/>
                             </div>
                         </div>
                         <div className="col-lg-7 col-md-12">
@@ -122,12 +122,13 @@ class About extends Component{
                     <div className="row row--35 align-items-center">
                         <div className="col-lg-5 col-md-12">
                             <div className="thumbnail">
-                                <img className="w-100" src="/assets/images/about/3.png" alt="Marcella"/>
+                                <img className="w-100" src="/assets/images/about/3.png" alt="Victória"/>
                             </div>
                         </div>
                         <div className="col-lg-7 col-md-12">
                             <div className="about-inner inner">
                                 <div className="section-title">
+                                 <br/>
                                     <h3 className="title">Victória Ribeiro - Embaixadora</h3>
                                     <p>Oi! meu nome é Victória (vic para os íntimos) e tenho 21 anos. 
                                         Sou apaixonada pela comunicação e por pessoas. Mesa de bar rodeada por amigos e família,
@@ -143,9 +144,11 @@ class About extends Component{
                                         E estou muito feliz em poder se embaixadora dessa iniciativa maravilhosa e espero poder 
                                         contribuir muito com o meu melhor!
                                     </p>
+                                <br/>
                                 </div>
                             </div>
                         </div>
+                        
                          {/* Start Back To Top */}
                         <div className="backto-top">
                             <ScrollToTop showUnder={160}>
